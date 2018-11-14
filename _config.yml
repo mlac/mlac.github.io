@@ -28,15 +28,7 @@ twitter_username: infosecfollow
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
-<<<<<<< HEAD
-theme: jekyll-theme-hacker
-=======
 theme: minima
->>>>>>> parent of ba4df61... Set theme jekyll-theme-midnight
-=======
-theme: jekyll-theme-midnight
->>>>>>> parent of 7eb6621... Set theme jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
