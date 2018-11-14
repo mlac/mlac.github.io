@@ -5,4 +5,4 @@
 layout: home
 ---
 
-{% include <iframe width="670" height="800" src="https://www.inoreader.com/stream/user/1006268016/tag/InfoSec%20OPML%20Feeds/view/html?cs=m" frameborder="0" tabindex="-1"></iframe> %}
+{% include rss_feed.html %}
