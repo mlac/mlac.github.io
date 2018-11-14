@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: InfoSecFollow
-email: spam@noreply.com
+#email: spam@noreply.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cybersecurity NewsFeed.
 baseurl: "" # the subpath of your site, e.g. /blog
