@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-permalink:/about.md
 ---
 
 This is an attempt to simplify cybersecurity news.
