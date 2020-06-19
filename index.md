@@ -5,7 +5,6 @@ title: home
 layout: default
 ---
 
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -13,6 +12,5 @@ layout: default
   </head>
   <body>
     {% include rss_feed.html %}
-    
   </body>
 </html>
