@@ -3,6 +3,7 @@
 
 <html>
   <head>
+    {% include navigation.html %}
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     {% include analytics.html %}
@@ -11,7 +12,4 @@
   <body>
     {{ content }}
   </body>
-  <footer>
-    {% include navigation.html %}
-  </footer>
 </html>
