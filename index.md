@@ -10,11 +10,12 @@ layout: home
   <head>
     <meta charset="utf-8">
     <title>Home</title>
+    {% include analytics.html %}
   </head>
   <body>
-    <h1>Hello World!</h1>
+    {% include rss_feed.html %}
   </body>
 </html>
 
-{% include analytics.html %}
-{% include rss_feed.html %}
+
+
