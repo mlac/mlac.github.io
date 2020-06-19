@@ -1,4 +1,6 @@
 - name: Home
   link: /
 - name: About
-  link: _site/about/
+  link: /about.md
+- name: Blog
+  link: /blog.html
