@@ -14,6 +14,7 @@ layout: home
   </head>
   <body>
     {% include rss_feed.html %}
+    
   </body>
 </html>
 
