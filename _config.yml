@@ -22,6 +22,16 @@ url: "www.infosecfollow.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: infosecfollow
 
 
+#jekyll-rss 
+# https://github.com/snaptortoise/jekyll-rss-feeds
+name: InfoSecFollow
+description: InfoSecFollow
+url: https://www.inoreader.com/stream/user/1006268016/tag/InfoSecFollow
+feed_items: 10
+feed_update_period: hourly
+feed_update_frequency: 1
+
+
 # Build settings
 markdown: kramdown
 theme: minima
