@@ -1,2 +1,4 @@
 # mlac.github.io
-Website
+
+Root GitHub Pages site. `index.html` redirects to
+[infosecfollow.com](https://infosecfollow.com/).
